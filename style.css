@@ -1,0 +1,55 @@
+body {
+    font-family:Verdana;
+    background-color: FireBrick;
+}
+header {
+    background-color: darkred;
+    padding: 20px;
+    
+  
+}
+h3  {
+    text-align: center;
+    
+   
+}
+a {
+    text-align: right;
+    color:black;
+    background-color: rgb(204, 69, 69);
+    border:1px double black;
+   
+}
+
+tr {
+    border: 2px solid black;
+}
+header a {
+    margin: 50px;
+    padding: 5px;
+}
+tr {
+   background-color:rgb(204, 69, 69) ; 
+}
+ select {
+margin: 20px;
+padding: 10px;
+border: 2px solid rgb(0, 0, 0);
+font-size: 20px;
+ }
+ select option {
+    color: rgb(204, 69, 69)
+ }
+ footer img {
+    height: 100px;
+    width: 100px;
+ }
+ footer {
+    background-color: darkred;
+    color: black;
+    text-align: center;
+ }
+  footer p {
+    background-color:  rgb(204, 69, 69);
+ }
+
